@@ -1,14 +1,25 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Escape
+summary: A 3-D FPS Game
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Game Development
+date: "2023-06-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/Zhang-ycc/Escape2
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Game
   focal_point: Smart
+
+links:
+  - icon: github
+    icon_pack: fab
+    name: Follow
+    url: https://github.com/Zhang-ycc
+  - icon: download
+    icon_pack: fas
+    name: Download
+    url: https://github.com/Zhang-ycc/Escape2/releases/tag/Executable
+
 ---

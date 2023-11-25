@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张月宸
+title: Yuechen Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Yuechen Zhang
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Yuechen
@@ -47,8 +47,8 @@ skills:
     items:
       - name: C/C++
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 80
+        icon: c
         icon_pack: fas
       - name: Python
         description: ''
@@ -57,27 +57,27 @@ skills:
         icon_pack: fab
       - name: Java
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 60
+        icon: unity
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Music
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 100
+        icon: music
         icon_pack: fas
       - name: ACGN
         description: ''
         percent: 100
-        icon: cat
+        icon: gamepad
         icon_pack: fas
       - name: Writing
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
@@ -97,8 +97,8 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
+  - ithub
+    icon_pack: fabicon: g
     link: https://github.com/Zhang-ycc
   - icon: linkedin
     icon_pack: fab
@@ -106,13 +106,13 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi, I am a undergraduate student from SJTU, majoring in software engineering digital media track. My interests lie in Computer Graphics, Human Computer Interaction and Game Technology. My current focus is on neural rendering in Graphics.
+I am a undergraduate student from SJTU, majoring in software engineering digital media track. My interests lie in Computer Graphics, Human Computer Interaction and Game Technology. My current focus is on neural rendering in Graphics.
 {style="text-align: justify;"}
