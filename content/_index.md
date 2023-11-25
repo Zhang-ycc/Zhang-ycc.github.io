@@ -81,7 +81,7 @@ sections:
           company_logo: org-x
           location: Shanghai
           date_start: '2020-10-01'
-          date_end: '2023-6-2'
+          date_end: '2023-06-02'
           description: |2-
               Responsibilities include:
 
