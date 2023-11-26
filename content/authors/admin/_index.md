@@ -22,10 +22,10 @@ role: Undergraduate in Software Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shanghai Jiao Tong University
-    url: https://www.sjtu.edu.cn/
+    url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests lie in Computer Graphics, Human Computer Interaction and Game Technology.
+bio: Life without risk is the most perilous of all.
 
 # Interests to show in About widget
 interests:
@@ -55,7 +55,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Java
+      - name: Unity
         description: ''
         percent: 60
         icon: unity
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-I am a undergraduate student from SJTU, majoring in software engineering digital media track. My interests lie in Computer Graphics, Human Computer Interaction and Game Technology. My current focus is on neural rendering in Graphics.
+I am an undergraduate student from SJTU, majoring in software engineering digital media track. My interests lie in Computer Graphics, Game Technology and Human Computer Interaction. My current focus is on neural rendering in Graphics.
 {style="text-align: justify;"}
