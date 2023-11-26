@@ -1,6 +1,6 @@
 ---
 title: The Lost City
-summary: A 2-D Game
+summary: Simple 2D game made with Unity
 tags:
   - Game Development
 date: '2023-04-27T00:00:00Z'

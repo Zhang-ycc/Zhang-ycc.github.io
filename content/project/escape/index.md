@@ -1,6 +1,6 @@
 ---
 title: Escape
-summary: A 3-D FPS Game
+summary: 3-D FPS Game based on Character Animation
 tags:
   - Game Development
 date: "2023-06-12T00:00:00Z"

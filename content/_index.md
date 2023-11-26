@@ -175,8 +175,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Game Developemnt
-          tag: Game Developemnt
+        - name: Game Development
+          tag: Game Development
         - name: Other
           tag: Demo
     design:
