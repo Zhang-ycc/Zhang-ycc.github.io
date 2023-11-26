@@ -85,8 +85,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Oversawnetworkconsultations,adeptlyaddressingchallengessuchasconfigurationandIPaddressallocation.
-              * Mentored and trained newcomers, ensuring proficiency in network operations.
+              * Oversaw network consultations
+              * Mentored and trained newcomers
     design:
       columns: '2'
   # - block: accomplishments
