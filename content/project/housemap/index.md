@@ -13,20 +13,20 @@ caption: Poster
 focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Front End
-  url: https://github.com/Zhang-ycc/HouseMap-Front
-- icon: github
-  icon_pack: fab
-  name: Back End
-  url: https://github.com/Zhang-ycc/HouseMap-Backend
+#- icon: github
+#  icon_pack: fab
+#  name: Front End
+#  url: https://github.com/Zhang-ycc/HouseMap-Front
+#- icon: github
+#  icon_pack: fab
+#  name: Back End
+#  url: https://github.com/Zhang-ycc/HouseMap-Backend
 # ---
 
 url_code: 'https://github.com/Zhang-ycc/HouseMap-Front'
 # url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/16NBJQ8OhvtBMudRt17ImHAUkSfodgK33nHEsAsJzB68/edit?usp=sharing'
-url_video: 'https://youtu.be/-iikgCYQCxk'
+url_slides: 'https://drive.google.com/file/d/1Vx9W0S4jesuC3ijyG0VpDFrIqVqFec2f/view?usp=sharing'
+#url_video: 'https://youtu.be/-iikgCYQCxk'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

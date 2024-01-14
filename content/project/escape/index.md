@@ -6,7 +6,7 @@ tags:
 date: "2023-06-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/Zhang-ycc/Escape2
+#external_link: https://github.com/Zhang-ycc/Escape2
 
 image:
   caption: Game
@@ -21,5 +21,9 @@ links:
     icon_pack: fas
     name: Download
     url: https://github.com/Zhang-ycc/Escape2/releases/tag/Executable
+    
+url_video: 'https://youtu.be/-iikgCYQCxk'
 
 ---
+
+Try the game!
