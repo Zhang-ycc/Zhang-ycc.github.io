@@ -23,19 +23,18 @@ links:
   url: https://github.com/Zhang-ycc/HouseMap-Backend
 # ---
 
-# url_code: ''
+url_code: 'https://github.com/Zhang-ycc/HouseMap-Front'
 # url_pdf: ''
-# url_slides: ''
-# url_video: ''
+url_slides: 'https://docs.google.com/presentation/d/16NBJQ8OhvtBMudRt17ImHAUkSfodgK33nHEsAsJzB68/edit?usp=sharing'
+url_video: 'https://youtu.be/-iikgCYQCxk'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides : "housemap"
-# ---
-
-
-
+#slides : "housemap"
 ---
+
+## Find Your Home! 
+

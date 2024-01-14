@@ -15,7 +15,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Source Codes
+    name: Source Code
     url: https://github.com/Zhang-ycc/Escape2
   - icon: download
     icon_pack: fas
