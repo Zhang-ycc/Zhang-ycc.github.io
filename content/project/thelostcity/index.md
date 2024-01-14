@@ -15,7 +15,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Follow
+    name: Source Codes
     url: https://github.com/Zhang-ycc/The-Lost-City
   - icon: download
     icon_pack: fas
