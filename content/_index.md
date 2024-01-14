@@ -85,8 +85,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Oversaw network consultations
-              * Mentored and trained newcomers
+              * Responsible for the daily maintenance of the student dormitory network, including the installation, configuration, and troubleshooting of network equipment.
+              * Address students' inquiries about network issues, and provide timely on-site repairs to resolve problems, ensuring the normal use of the student network.
     design:
       columns: '2'
   # - block: accomplishments
