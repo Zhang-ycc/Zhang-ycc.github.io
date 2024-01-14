@@ -177,6 +177,8 @@ sections:
           tag: '*'
         - name: Game Development
           tag: Game Development
+        - name: Application
+          tag: Application
         - name: Other
           tag: Demo
     design:

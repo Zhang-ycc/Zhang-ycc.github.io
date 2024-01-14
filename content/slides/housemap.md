@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: An introduction to using Hugo Blox Builder's Slides feature.
-authors: []
+title: Find your house
+summary: A multi-platform application for house renting.
+authors: Yuechen Zhang
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: '2022-09-12T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

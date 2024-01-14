@@ -1,27 +1,26 @@
 ---
-title: The Lost City
-summary: Simple 2D game made with Unity
+title: Find your home
+summary: a multi-platform application for house renting
 tags:
-  - Game Development
-date: '2023-04-27T00:00:00Z'
+  - Application
+date: '2023-09-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/Zhang-ycc/The-Lost-City'
+# external_link: 'https://github.com/Zhang-ycc/The-Lost-City'
 
 image:
-  caption: Game Poster
+  caption: Poster
   focal_point: Smart
 
 links:
   - icon: github
     icon_pack: fab
     name: Follow
-    url: https://github.com/Zhang-ycc/The-Lost-City
-  - icon: download
-    icon_pack: fas
-    name: Download
-    url: https://github.com/Zhang-ycc/The-Lost-City/releases/tag/Executable
----
+    url: https://github.com/Zhang-ycc/HouseMap-Front
+#   - icon: download
+#     icon_pack: fas
+#     name: Download
+#     url: https://github.com/Zhang-ycc/The-Lost-City/releases/tag/Executable
 
 # url_code: ''
 # url_pdf: ''
@@ -33,8 +32,8 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
-# ---
+slides: "housemap"
+---
 
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
