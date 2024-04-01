@@ -13,16 +13,16 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Source Code
-    url: https://github.com/Zhang-ycc/The-Lost-City
+#  - icon: github
+#    icon_pack: fab
+#    name: Source Code
+#    url: https://github.com/Zhang-ycc/The-Lost-City
   - icon: download
     icon_pack: fas
     name: Download
     url: https://github.com/Zhang-ycc/The-Lost-City/releases/tag/Executable
 
-# url_code: ''
+url_code: 'https://github.com/Zhang-ycc/The-Lost-City'
 # url_pdf: ''
 # url_slides: ''
 # url_video: ''

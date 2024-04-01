@@ -75,6 +75,17 @@ sections:
         #       * Analysing
         #       * Modelling
         #       * Deploying
+        - title: Research Intern
+          company: Georgia Institute of Technology
+          company_url: 'https://www.gatech.edu/'
+          company_logo: org-x
+          location: Atlanta
+          date_start: '2020-10-01'
+          date_end: '2024-06-30'
+          description: |2-
+              * Developed a neural representation of implicit surfaces using particle Signed Distance Field, employing redistribution techniques for optimal model refinement.
+              * Enhanced dynamic scene representation through neural approaches, demonstrating superior performance with particle-based SPH.
+
         - title: Network Manager
           company: Network & Information Management Organization
           company_url: 'https://nimo.sjtu.edu.cn/'
@@ -83,8 +94,6 @@ sections:
           date_start: '2020-10-01'
           date_end: '2023-06-02'
           description: |2-
-              Responsibilities include:
-
               * Responsible for the daily maintenance of the student dormitory network, including the installation, configuration, and troubleshooting of network equipment.
               * Address students' inquiries about network issues, and provide timely on-site repairs to resolve problems, ensuring the normal use of the student network.
     design:

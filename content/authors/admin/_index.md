@@ -39,6 +39,9 @@ education:
     - course: B.E in Software Engineering
       institution: Shanghai Jiao Tong University
       year: 2020 - present
+    - course: Exchange Student in Data Science
+      institution: Imperial College London
+      year: 2023 - 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,7 +105,7 @@ social:
     link: https://github.com/Zhang-ycc
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yuechen-zhang-9414b7268/
+    link: https://www.linkedin.com/in/yuechen-zhang/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
