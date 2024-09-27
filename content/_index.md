@@ -78,7 +78,7 @@ sections:
         - title: Interaction Engineering Intern
           company: ByteDance
           company_url: 'https://www.bytedance.com/'
-          company_logo: custom/bytedance
+          company_logo: org-x
           location: Shanghai
           date_start: '2024-05-20'
           date_end: '2023-09-06'
@@ -90,7 +90,7 @@ sections:
         - title: Research Intern
           company: Georgia Institute of Technology
           company_url: 'https://www.gatech.edu/'
-          company_logo: custom/gatech
+          company_logo: org-x
           location: Atlanta
           date_start: '2023-06-26'
           date_end: '2024-01-07'
