@@ -189,8 +189,8 @@ sections:
           tag: Game Development
         - name: Application
           tag: Application
-        - name: Other
-          tag: Demo
+        - name: AR Special Effect
+          tag: AR Special Effect
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

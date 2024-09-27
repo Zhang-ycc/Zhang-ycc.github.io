@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am a graduate student from UC San Diego, majoring in computer sciencem. I received my B.E. degree in Software Engineering from Shanghai Jiao Tong University in 2024. My interests lie in Computer Graphics. My current focus is on neural rendering in Graphics.
+I am a graduate student from UC San Diego, majoring in computer science. I received my B.E. degree in Software Engineering from Shanghai Jiao Tong University in 2024. My interests lie in Computer Graphics and Game Technology.
 {style="text-align: justify;"}
