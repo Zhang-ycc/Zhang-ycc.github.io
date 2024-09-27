@@ -75,27 +75,28 @@ sections:
         #       * Analysing
         #       * Modelling
         #       * Deploying
+        - title: Interaction Engineering Intern
+          company: ByteDance
+          company_url: 'https://www.bytedance.com/'
+          company_logo: custom/bytedance
+          location: Shanghai
+          date_start: '2024-05-20'
+          date_end: '2023-09-06'
+          description: |2-
+              * Developed visual effects and gameplay logic for live-streaming, launching 10+ interactive AR effects that enhanced user engagement and broadcast quality.
+              * Optimized performance through shader implementation, using technologies like physics-based collision, skeletal recognition, and AIGC to improve realism and interactivity.
+              * Contributed to foundational tools and algorithms, streamlining the workflow for designers and external users, improving efficiency and user experience.
+
         - title: Research Intern
           company: Georgia Institute of Technology
           company_url: 'https://www.gatech.edu/'
-          company_logo: org-x
+          company_logo: custom/gatech
           location: Atlanta
-          date_start: '2020-10-01'
-          date_end: '2024-06-30'
+          date_start: '2023-06-26'
+          date_end: '2024-01-07'
           description: |2-
               * Developed a neural representation of implicit surfaces using particle Signed Distance Field, employing redistribution techniques for optimal model refinement.
               * Enhanced dynamic scene representation through neural approaches, demonstrating superior performance with particle-based SPH.
-
-        - title: Network Manager
-          company: Network & Information Management Organization
-          company_url: 'https://nimo.sjtu.edu.cn/'
-          company_logo: org-x
-          location: Shanghai
-          date_start: '2020-10-01'
-          date_end: '2023-06-02'
-          description: |2-
-              * Responsible for the daily maintenance of the student dormitory network, including the installation, configuration, and troubleshooting of network equipment.
-              * Address students' inquiries about network issues, and provide timely on-site repairs to resolve problems, ensuring the normal use of the student network.
     design:
       columns: '2'
   # - block: accomplishments

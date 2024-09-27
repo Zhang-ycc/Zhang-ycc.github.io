@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate in Software Engineering
+role: Master in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://en.sjtu.edu.cn/
+  - name: UC San Diego
+    url: https://ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Life without risk is the most perilous of all.
@@ -36,9 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: M.S. in Computer Science
+      institution: University of California San Diego
+      year: 2024 - present
     - course: B.E in Software Engineering
       institution: Shanghai Jiao Tong University
-      year: 2020 - present
+      year: 2020 - 2024
     - course: Exchange Student in Data Science
       institution: Imperial College London
       year: 2023 - 2023
@@ -53,15 +56,15 @@ skills:
         percent: 80
         icon: c
         icon_pack: fas
+      - name: JavaScript
+        description: ''
+        percent: 70
+        icon: js
+        icon_pack: fab
       - name: Python
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Unity
-        description: ''
         percent: 60
-        icon: unity
+        icon: python
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
@@ -117,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student from SJTU, majoring in software engineering digital media track. My interests lie in Computer Graphics, Game Technology and Human Computer Interaction. My current focus is on neural rendering in Graphics.
+I am a graduate student from UC San Diego, majoring in computer sciencem. I received my B.E. degree in Software Engineering from Shanghai Jiao Tong University in 2024. My interests lie in Computer Graphics. My current focus is on neural rendering in Graphics.
 {style="text-align: justify;"}
